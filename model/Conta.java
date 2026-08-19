@@ -1,5 +1,3 @@
-//Victor e Vinicios
-
 package model;
 
 public class Conta {

@@ -1,5 +1,3 @@
-//André e Adriano
-
 package model;
 
 public class Despesa {
