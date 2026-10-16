@@ -9,6 +9,10 @@ public class Despesa {
     
    
     //construtor
+     public Despesa() {
+        
+    }
+    
     public Despesa (String descricao, double valor, String status) {
 
         this.descricao = descricao;
