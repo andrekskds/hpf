@@ -6,7 +6,13 @@ public class Receita {
     private String origem;
     private double valor;
     
-    //construtor
+      //construtor
+     public Conta() {
+        
+    }
+
+    
+//construtor
     public Receita (String origem, double valor){
 
         this.origem = origem;
